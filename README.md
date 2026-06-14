@@ -2,6 +2,8 @@
 
 **SQL + Power BI | Global AI & Tech Layoffs 2020-2026**
 
+View Proposal | View Report
+
 ---
 
 Every time a tech company announces layoffs and credits AI, the narrative is the same: we are becoming leaner, smarter, more competitive. This project tests whether investors actually buy it.
