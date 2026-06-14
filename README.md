@@ -72,7 +72,7 @@ Selecting AI Automation Replacing Roles filters all visuals simultaneously, isol
 ## SQL Structure
 
 ```
-layoffs_analysis.sql
+LAYOFFS_PROJECT.sql
 ├── Section 1: Table Setup
 ├── Section 2: Data Exploration
 ├── Section 3: Data Cleaning & Enrichment
@@ -94,7 +94,8 @@ layoffs_analysis.sql
 
 ```
 layoffs-market-analysis/
-├── layoffs_analysis.sql
+├── LAYOFFS_PROJECT.sql
+├── layoffs_dashboard.pbix
 ├── README.md
 ├── proposal.md
 ├── report.md
