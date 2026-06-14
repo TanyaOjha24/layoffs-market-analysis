@@ -2,7 +2,7 @@
 
 **SQL + Power BI | Global AI & Tech Layoffs 2020-2026**
 
-View Proposal | View Report
+[View Proposal](proposal.md) | [View Report](report.md)
 
 ---
 
