@@ -68,7 +68,7 @@ FROM layoffs_cleaned;
 SELECT COUNT(*) AS rows_with_stock_data
 FROM layoffs_cleaned
 WHERE stock_price_change_1wk_pct IS NOT NULL;
--- Result: 461 rows have stock price data (remainder are private companies)
+-- Result: 1389 rows have stock price data (remainder are private companies)
 
 -- Confirm NULLs belong exclusively to private companies
 SELECT COUNT(*) AS private_null_count
